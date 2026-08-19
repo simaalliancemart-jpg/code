@@ -1,0 +1,52 @@
+{
+  "id": 101,
+  "name": "HridoY Das",
+  "age": 22,
+  "address": {
+    "city": "Dhaka",
+    "zip": "1207"
+  },
+  "courses": [
+    {
+      "title": "Math",
+      "grade": "A",
+      "credits": 3
+    },
+    {
+      "title": "Physics",
+      "grade": "B+",
+      "credits": 4
+    }
+  ],
+  "guardian": {
+    "name": "Rahim Das",
+    "relation": "Father",
+    "guardian": {
+      "name": "Karim Das",
+      "relation": "Grandfather",
+      "guardian": null
+    }
+  },
+  "classmates": [
+    {
+      "id": 102,
+      "name": "Ayesha",
+      "courses": [
+        {
+          "title": "Math",
+          "grade": "A-"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Nabila",
+      "courses": []
+    }
+  ],
+  "tags": [
+    "cs",
+    "batch-20",
+    "ostad"
+  ]
+}

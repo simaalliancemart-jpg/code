@@ -1,0 +1,4 @@
+const arraydata=[20,"sima","hello",100,"shirin",'100']
+for(let i=0; i<arraydata.length;i++){
+    console.log(arraydata[i])
+}
