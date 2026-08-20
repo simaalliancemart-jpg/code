@@ -1,4 +1,4 @@
-# Basic programming learning for batch 20
+# Basic programming learning Javascript 
 Using javascript we have complete to learn core concepts of programming.
 
 ## Problem solving
