@@ -1,4 +1,4 @@
-# Basic programming learning for javascript
+# Basic programming learning for javascript language
 Using javascript we have complete to learn core concepts of programming.
 
 ## Problem solving
