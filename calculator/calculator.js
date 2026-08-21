@@ -1,4 +1,4 @@
-//simple calculator using javascript
+//simple calculator using node.js
 
 const a = 10;
 const b = 5;
