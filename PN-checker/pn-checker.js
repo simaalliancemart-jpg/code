@@ -1,4 +1,4 @@
-//positive negetive number checker
+//positive negetive number checker using javascript
 
 function check(num) {
   if (num > 0) {
