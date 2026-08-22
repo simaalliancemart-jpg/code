@@ -1,3 +1,5 @@
+//function using javascript
+
 function arrayreader(){
     const dataFive=["hello",10,"sima","5","siyam",["shirin","nasrin","shabnam"]]
     const lastindex=dataFive.length
