@@ -1,4 +1,4 @@
-//vs code pull
+//pull in vs code
 const student = {
     name: "Sima",
     age: 22,
