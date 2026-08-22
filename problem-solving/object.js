@@ -1,3 +1,4 @@
+//pull
 const student = {
     name: "Sima",
     age: 22,
