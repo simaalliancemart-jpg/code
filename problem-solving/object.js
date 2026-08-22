@@ -1,6 +1,6 @@
 //pull in vs code
 const student = {
-    name: "Sima",
+    name: "Sirin",
     age: 22,
     department: "CSE"
 };
