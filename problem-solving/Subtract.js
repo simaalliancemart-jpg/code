@@ -1,3 +1,4 @@
+//using javascript
 function subtract(a,b){
     const result=a-b
     console.log(result)
